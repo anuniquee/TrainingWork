@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<head>
+
+<title>Q-3</title>
+
+<style>
+
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightgrey;    
+  text-align: center;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<center><h1>Junagadh</h1>
+
+<br><br>
+
+<center>
+
+<div class="myDiv">
+
+<a href="Home.htm">Home</a>&ensp;   
+<a href="Heritage.htm">Heritage</a>&ensp;   
+<a href="HotelBooking.htm">Hotel Booking</a>&ensp;   
+<a href="Gallery.htm">Gallery</a>&ensp;   
+<a href="RegistrationForm.htm">Registration Form</a>&ensp;   
+
+</div>
+
+</center>
+
+<p>
+ 
+ At a distance of 54 km from Gir National Park, 91 km from Somnath, 99 km from
+ Amreli, 103 km from Rajkot, 107 km from Porbandar, 139 km from Jamnagar, 147 km 
+ from Diu, 209 km from Dwarka, 289 km from Gandhidham, 319 km from Ahmedabad, 
+ 333 km from Bhuj and 388 km from Vadodara, Junagadh is a historical city located 
+ in the western Indian state of Gujarat. 
+ 
+</p>
+
+<br><br>
+
+<p>
+
+ Located in the foothills of Mount Girnar, Junagadh is the seventh-largest city in
+ Gujarat. The literal meaning of the term 'Junagadh' is an 'old fort' which derives 
+ from Uparkot, an ancient fort built in the 4th century CE on a plateau in the 
+ middle of the town, and is the major attraction of Junagadh tour packages. It was
+ also termed as 'Yonagadh,' which means 'City of the Greeks,' as it was once ruled
+ by the Greeks. Junagadh is also known as 'Sorath', the name of the princely state
+ that existed before the partition of India and Pakistan in the year 1947.
+ 
+</p>
+
+</body>
+
+</html>

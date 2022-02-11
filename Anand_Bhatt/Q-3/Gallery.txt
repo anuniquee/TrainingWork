@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+<style>
+
+body 
+{
+  background-image: url('7.jpg');
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightgrey;    
+  text-align: center;
+}
+
+</style>
+</head>
+
+<body>
+
+<center><h1>Sakkarbag Zoo</h1></center>
+
+<center><img src="Sakkarbag.jpg" width="400" height="400"><br>Sakkarbag Zoo</center><br>
+
+<p>
+At a distance of 2 km from Junagadh Junction, Sakkarbaug Zoo is a massive zoo park 
+situated in the Dolatpara locality of Junagadh. Also known as Junagadh Zoo, it is 
+the second oldest zoo in India and among the must include places in Junagadh 
+sightseeing packages.
+</p>
+
+</body>
+
+</html>

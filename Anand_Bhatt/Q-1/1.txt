@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<h1>Conscious Planet Campaign</h1>
+<p>It is a campaign started by Isha Foundation to craft a conscious planet by planting millions of trees. </p>
+</body>
+</html>
